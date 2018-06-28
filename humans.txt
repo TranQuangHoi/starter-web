@@ -6,7 +6,7 @@
     Jason Taylor 
 
 # THANKS
-
+	Thanks all.
     <name>
 
 # TECHNOLOGY COLOPHON
